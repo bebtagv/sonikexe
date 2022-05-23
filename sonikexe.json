@@ -3,5 +3,18 @@
    "message": "Hai there is new update for this app please download!",
    "redirectUrl": "",
    "moreApps": [
+      {
+         "title": "Mikecrack EXE coloring",
+         "description": "Mikecrack EXE coloring",
+         "thumb": "https://play-lh.googleusercontent.com/y9ITnSDQ-_15XEw7DrDy_KQbk8YYHpIygxcFqpt2N3qT310rKaDa03j4eK_77XTYXmXS=s180-rw",
+         "url": "https://play.google.com/store/apps/details?id=com.mikecrackexe.juegoscoloringgame"
+      },
+      {
+         "title": "Encanto coloring cartoon",
+         "description": "Best sans under coloring tales book games",
+         "thumb": "https://play-lh.googleusercontent.com/yzJVlwjxR61K0y4udPC2vkihaEivR3-dmgdg58RRo7wugrQ1A4rNitSU1MN5yuq4Pw=s180-rw",
+         "url": "https://play.google.com/store/apps/details?id=com.coloringencanto.beautymadrigalcartoon"
+      }
+      
    ]
 }
